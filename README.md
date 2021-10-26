@@ -1,5 +1,5 @@
 # Interpretability-of-Deep-Learning-Models
-Dual degree project thesis on "Interpretability of Deep Learning Models". Work done under Prof. Mitesh M. Khapra at IIT Madras.
+Dual degree project thesis on "Interpretability of Deep Learning Models". Work done under the guidance of Dr. Mitesh M. Khapra at IIT Madras.
 
 ***Abstract***
 
